@@ -1,4 +1,5 @@
 # Crescita naturale e migratoria della popolazione ticinese, 1981–2024
+**[▶ Grafico interattivo](https://lupertojoele-max.github.io/analisi-demografia-ticino/grafico_interattivo.html)**
 
 ## Domanda
 
