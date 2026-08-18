@@ -1,7 +1,6 @@
 # Crescita naturale e migratoria della popolazione ticinese, 1981–2024
 **Grafici interattivi:**
-[▶ Saldi annuali](https://lupertojoele-max.github.io/analisi-demografia-ticino/grafico_interattivo.html)
-[▶ Contributo cumulato](https://lupertojoele-max.github.io/analisi-demografia-ticino/grafico_cumulato.html)
+[▶ Saldi annuali](https://lupertojoele-max.github.io/analisi-demografia-ticino/grafico_interattivo.html) · [▶ Contributo cumulato](https://lupertojoele-max.github.io/analisi-demografia-ticino/grafico_cumulato.html)
 
 ## Domanda
 
