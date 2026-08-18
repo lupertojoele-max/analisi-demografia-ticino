@@ -1,0 +1,53 @@
+Bilancio demografico, secondo il sesso e la nazionalità, per distretto e comune di residenza, in Ticino, dal 1981
+
+Fonte: fino al 2010 Statistica dello stato annuale della popolazione (ESPOP), dal 2011 Statistica della popolazione e delle economie domestiche (STATPOP), Ufficio federale di statistica, Neuchâtel
+https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=definizioni.fonti&tema=33&id=24&proID=64
+
+Elaborazione:  Ufficio di statistica (Ustat), Giubiasco
+
+Ultima modifica:  27.08.2025
+
+Variabili presenti nel cubo di dati:
+Sesso: il sesso degli individui considerati
+Nazionalità: nazionalità in due categorie (svizzeri e stranieri)
+Distretto e comune di residenza: il distretto e il comune di residenza (stato al 10.04.2022 - 106 comuni)
+Anno del rilevamento: l'anno statistico di riferimento
+
+Statistiche presenti nel cubo di dati:
+Stato della popolazione al 1° gennaio: stato della popolazione al 1° gennaio
+Nati vivi: bambini nati vivi nel corso dell'anno civile
+Decessi: persone decedute nel corso dell'anno civile
+Saldo naturale: incremento naturale (differenza tra il numero di nascite e il numero di decessi registrati nel corso dell'anno civile)
+Arrivi internazionali: immigrazioni, inclusi i cambiamenti del tipo di popolazione
+Arrivi intercantonali: arrivi da un altro cantone della Svizzera
+Arrivi intercomunali: arrivi da un altro comune del Ticino
+Partenze internazionali: emigrazioni
+Partenze intercantonali: partenze verso un altro cantone della Svizzera
+Partenze intercomunali: partenze verso un altro comune del Ticino
+Saldo migratorio: migrazione netta (differenza tra il numero di arrivi e il numero di partenze registrati nel corso dell'anno civile)
+Cambiamenti del tipo di popolazione: cambiamenti del tipo di popolazione di cittadini stranieri da non permanente a permanente e viceversa. Questi cambiamenti sono sempre inclusi nelle componenti demografiche "Arrivi internazionali" e "Saldo migratorio"
+Acquisizioni della nazionalità svizzera: ottenimento della nazionalità svizzera da parte di una persona di nazionalità straniera. Questa componente non incide sul cambiamento della situazione demografica ma sul numero e sulla struttura della popolazione di nazionalità svizzera rispettivamente straniera
+Cambiamento di sesso all'ufficio di stato civile (entrata): dal 1° gennaio 2022 per modificare il sesso iscritto nel registro dello stato civile è sufficiente una dichiarazione personale presso l’ufficio dello stato civile
+Cambiamento di sesso all'ufficio di stato civile (uscita): dal 1° gennaio 2022 per modificare il sesso iscritto nel registro dello stato civile è sufficiente una dichiarazione personale presso l’ufficio dello stato civile
+Divergenze statistiche: variazioni nell'effettivo della popolazione che non possono essere imputate a dei movimenti demografici
+Stato della popolazione al 31 dicembre: stato della popolazione al 31 dicembre
+Saldo demografico: incremento della popolazione nel corso dell'anno civile
+
+Glossario:
+Bilancio demografico: https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=definizioni.glossario&id=244&tema=33
+Nati vivi: https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=definizioni.glossario&id=541&tema=
+Saldo naturale: https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=definizioni.glossario&id=178&tema=
+Arrivi internazionali e intercantonali: https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=definizioni.glossario&id=200&tema=
+Partenze internazionali e intercantonali: https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=definizioni.glossario&id=515&tema=
+Divergenze statistiche: https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=definizioni.glossario&id=353&tema=
+Saldo migratorio: https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=definizioni.glossario&id=180&tema=
+Acquisizioni della nazionalità svizzera: https://www3.ti.ch/DFE/DR/USTAT/index.php?fuseaction=definizioni.glossario&id=134&tema=
+
+Segni sigle e simboli: 
+https://www4.ti.ch/fileadmin/DFE/DR-USTAT/Prodotti/Definizioni/segni_sigle_simboli.pdf
+
+Ogni riga del file csv contiene una determinata statistica che si riferisce a una determinata combinazione di caratteristiche. 
+I risultati statistici sono nella colonna "Popolazione". La prima riga del file csv contiene i nomi delle colonne del cubo di dati. 
+Ogni colonna è separata da un punto e virgola (;).
+
+

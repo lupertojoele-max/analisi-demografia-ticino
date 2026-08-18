@@ -1,0 +1,13 @@
+# Dati grezzi (scaricabili dalla fonte)
+*.csv
+*.zip
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
