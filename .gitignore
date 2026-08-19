@@ -11,3 +11,5 @@ venv/
 # Sistema
 .DS_Store
 Thumbs.db
+# Database rigenerabile
+*.db
